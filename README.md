@@ -1,2 +1,2 @@
 # HowToSave
-links
+go to links file
